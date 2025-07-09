@@ -17,7 +17,7 @@ This repository is for testing and validating the NMS Python model.
 
 Using Git:
 ```bash
-git clone https://github.com/your-username/NMS_Model_Test.git
+git clone https://github.com/Joshua-Oliver87/NMS_Model_Test.git
 cd NMS_Model_Test
 ```
 
